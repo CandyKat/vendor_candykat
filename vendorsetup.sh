@@ -12,4 +12,5 @@ add_lunch_combo candykat_mako-userdebug
 add_lunch_combo candykat_toro-userdebug
 add_lunch_combo candykat_toroplus-userdebug
 add_lunch_combo candykat_ville-userdebug
+add_lunch_combo candykat_evita-userdebug
 
